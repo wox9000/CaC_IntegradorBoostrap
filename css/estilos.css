@@ -126,6 +126,15 @@ body{
     background-color: #0d6efd;
     border-color: #0d6efd;
 }
+.bussines-btn {
+    background-color: grey;
+    border-color: grey;
+}
+.startup-btn{
+    background-color: red;
+    border-color: red;
+}
+
 
 .formularioOrador{
     width:50%;
